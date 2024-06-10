@@ -1,7 +1,7 @@
 Resturantly is an information website and allows you to book a table.
-![Screenshot (266)](https://github.com/merygabriel/Resturantly/assets/133795560/95475cac-2528-41f2-95f6-785623cbd33e)
 
-![Screenshot (268)](https://github.com/merygabriel/Resturantly/assets/133795560/9f3465a5-2ebb-4ef8-81d0-e41c00ee576e)
-![Screenshot (267)](https://github.com/merygabriel/Resturantly/assets/133795560/07dd8fac-472c-4d36-bb7e-28236a1a3586)
-![Screenshot (265)](https://github.com/merygabriel/Resturantly/assets/133795560/049abca3-f7d2-46ba-870f-f0e1a79db267)
-![Screenshot (269)](https://github.com/merygabriel/Resturantly/assets/133795560/7c0940e4-7ac4-486e-9dc0-74552617fd2b)
+![Screenshot (265)](https://github.com/merygabriel/Resturantly/assets/133795560/9901cd69-db83-4fe5-989b-3aa660317acb)
+![Screenshot (266)](https://github.com/merygabriel/Resturantly/assets/133795560/79645cd4-4145-4d0c-8a78-e6478bb7e106)
+![Screenshot (267)](https://github.com/merygabriel/Resturantly/assets/133795560/ba1faf87-5890-4e8c-b9ad-1fd5f836ef21)
+![Screenshot (268)](https://github.com/merygabriel/Resturantly/assets/133795560/b4a98bc3-5531-4f2c-8579-e7378426c387)
+![Screenshot (269)](https://github.com/merygabriel/Resturantly/assets/133795560/ca754c94-cc6c-46cb-a622-778b13d96e54)
